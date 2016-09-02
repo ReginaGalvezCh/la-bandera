@@ -1,0 +1,27 @@
+
+.amarillo1{
+background-color:yellow;
+margin:10px;
+/*height: 100px;
+width: 200px;*/}
+.rojo{
+background-color:red;
+margin:10px;
+/*height: 100px;
+width: 200px;*/
+/*modificandoposition: relative; 
+left:210px;
+top:-115px;*/}
+.amarillo2{ 
+background-color:yellow;
+margin:10px; 
+/*height: 100px;
+width: 200px;*/
+
+/*position: relative; 
+left:420px;
+top:-230px;*/}
+div{
+	display: inline-block;
+	padding: 0px 10px;}
+	
