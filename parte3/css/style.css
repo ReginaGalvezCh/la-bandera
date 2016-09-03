@@ -1,26 +1,28 @@
 
 .amarillo1{
-background-color:yellow;
-margin:10px;
-height: 100px;
-width: 200px;}
+    background-color:yellow;
+    margin:10px;
+    height: 100px;
+    width: 200px;}
 .rojo{
-background-color:red;
-margin:10px;
-height: 100px;
-width: 200px;
-/*modificandoposition: relative; 
+    background-color:red;
+    margin:10px;
+    height: 100px;
+    width: 200px;
+/*una 2da opcion es modificando 
+position: relative; 
 left:210px;
 top:-115px;*/}
 .amarillo2{ 
-background-color:yellow;
-margin:10px; 
-height: 100px;
-width: 200px;
+   background-color:yellow;
+   margin:10px; 
+   height: 100px;
+   width: 200px;
 
-/*position: relative; 
+/*una 2da opcion es modificando 
+position: relative; 
 left:420px;
 top:-230px;*/}
 div{
-	display: inline-block;}
+   display: inline-block;}
 	
